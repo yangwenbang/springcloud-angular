@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-web
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ￥ﾥﾹ￥ﾤﾏ￤ﾺﾆ￥ﾤﾏ￥ﾤﾩ
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.spring.boot.web.App
+
