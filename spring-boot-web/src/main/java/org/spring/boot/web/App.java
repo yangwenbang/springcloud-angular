@@ -24,7 +24,6 @@ public class App
     	String encode = MD5Util.MD5("ywb");
     	
     	return encode;
-//    	return "hello word";
 	}
    
 }
